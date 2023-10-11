@@ -25,7 +25,7 @@ export const footerLists = [
 				slug: '/landing-pages/landing-1',
 			},
 			{
-				title: 'Echozonekanegosyoapp.online',
+				title: 'Become a  member',
 				slug: '/landing-pages/landing-2',
 			},
       // {
