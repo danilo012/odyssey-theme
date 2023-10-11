@@ -10,14 +10,9 @@ export const footerSocials = [
     icon: "mdi:youtube",
   },
   {
-    name: 'Github',
-    url: 'https://github.com/littlesticks',
-    icon: "mdi:github",
-  },
-  {
-    name: 'Discord',
-    url: 'https://littlesticks.dev/discord',
-    icon: "ic:baseline-discord",
+    name: 'Messenger',
+    url: 'https://m.me/j/AbZkTzoLBsPiwy6E/',
+    icon: "mdi-facebook-messenger",
   },
 ]
 
