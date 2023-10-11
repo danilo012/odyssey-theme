@@ -18,14 +18,14 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: 'Landing pages',
 		items: [
 			{
-				title: 'Landing Page 1',
+				title: 'Echozoneph.online',
 				slug: '/landing-pages/landing-1',
 			},
 			{
-				title: 'Landing Page 2',
+				title: 'Echozonekanegosyoapp.online',
 				slug: '/landing-pages/landing-2',
 			},
       // {
