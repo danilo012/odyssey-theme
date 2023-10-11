@@ -12,7 +12,7 @@ export const footerSocials = [
   {
     name: 'Messenger',
     url: 'https://m.me/j/AbZkTzoLBsPiwy6E/',
-    icon: "mdi-facebook-messenger",
+    icon: "mdi:facebook-messenger",
   },
 ]
 
